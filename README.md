@@ -6,3 +6,5 @@ The original leak can be found on [VX-Undergrounds](vx-underground.org). Some fi
 
 - [Google Sheet](https://docs.google.com/spreadsheets/d/1hCc25rqSPnZMNbMyO2iLlKjncZhU9hAPqGX7XLCMmpA/edit?usp=sharing)
 - ATT&CK Enterprise Navigator layer
+
+![MITRE ATT&CK framework mapping](https://raw.githubusercontent.com/j91321/conti-manuals-analysis/main/conti-manuals-attck-matrix.svg??sanitize=true)
